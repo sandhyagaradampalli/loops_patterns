@@ -1,0 +1,9 @@
+a=int(input())
+i=0
+while i<=a:
+    j=i
+    while j>=0:
+        print(,end=" ")
+        j=j-4
+    i=i+3
+    print()
